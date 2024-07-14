@@ -13,7 +13,6 @@
 [![GitHub Views](https://komarev.com/ghpvc/?username=K3epEv3rythingYours)](https://github.com/K3epEv3rythingYours)
 [![GitHub Stars](https://img.shields.io/github/stars/K3epEv3rythingYours?style=social)](https://github.com/K3epEv3rythingYours)
 
----
 
 <br>
 
