@@ -21,8 +21,6 @@
 
 <br>
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=K3epEv3rythingYours&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/waelshannak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
