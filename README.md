@@ -10,7 +10,6 @@
 ---
 
 [![Visit Count](https://visitcount.itsvg.in/api?id=K3epEv3rythingYours&icon=7&color=12)](https://visitcount.itsvg.in)
-[![GitHub Views](https://komarev.com/ghpvc/?username=K3epEv3rythingYours)](https://github.com/K3epEv3rythingYours)
 [![GitHub Stars](https://img.shields.io/github/stars/K3epEv3rythingYours?style=social)](https://github.com/K3epEv3rythingYours)
 
 
