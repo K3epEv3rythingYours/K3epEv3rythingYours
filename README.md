@@ -6,7 +6,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=K3epEv3rythingYours&icon=7&color=12)](https://visitcount.itsvg.in)
 
-<pr>
+<pre>
 - 🔭 I’m currently working on **A lot of things**
 
 - 🌱 I’m currently learning **A lot of things**
@@ -18,7 +18,6 @@
 - 📫 How to reach me **WaelShannak@Outlook.com**
 <br></pre>
 
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=K3epEv3rythingYours&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 <h3 align="left">Connect with me:</h3>
@@ -37,7 +36,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=K3epEv3rythingYours&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### My Fav Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=K3epEv3rythingYours&limit=5&theme=dark&combine_all_yearly_contributions=true)
