@@ -7,7 +7,6 @@
     <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif">
 </p>
 
----
 
 [![Visit Count](https://visitcount.itsvg.in/api?id=K3epEv3rythingYours&icon=7&color=12)](https://visitcount.itsvg.in)
 [![GitHub Stars](https://img.shields.io/github/stars/K3epEv3rythingYours?style=social)](https://github.com/K3epEv3rythingYours)
