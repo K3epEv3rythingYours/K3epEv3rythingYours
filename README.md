@@ -21,9 +21,11 @@
 - 💬 Feel free to ask me anything
 - 📫 Reach me at WaelShannak@Outlook.com
 
-<br>
+<be>
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=K3epEv3rythingYours&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+<pre>
+    <br/>
+</pre>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -83,24 +85,3 @@
         <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
     </a>
 </p>
-
-<br><br>
-
-<p align="center">
-    <a href="https://example.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://placeimg.com/400/200/tech" alt="Interactive Graphic" width="400" height="200" />
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://example.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://placeimg.com/400/200/game" alt="Interactive Game" width="400" height="200" />
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://example.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://placeimg.com/400/200/gif" alt="2D GIF" width="400" height="200" />
-    </a>
-</p>
-
