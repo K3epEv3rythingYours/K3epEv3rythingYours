@@ -10,6 +10,8 @@
 ---
 
 [![Visit Count](https://visitcount.itsvg.in/api?id=K3epEv3rythingYours&icon=7&color=12)](https://visitcount.itsvg.in)
+[![GitHub Views](https://komarev.com/ghpvc/?username=K3epEv3rythingYours)](https://github.com/K3epEv3rythingYours)
+[![GitHub Stars](https://img.shields.io/github/stars/K3epEv3rythingYours?style=social)](https://github.com/K3epEv3rythingYours)
 
 <br>
 
@@ -20,6 +22,8 @@
 - 📫 Reach me at WaelShannak@Outlook.com
 
 <br>
+
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=K3epEv3rythingYours&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -82,4 +86,21 @@
 
 <br><br>
 
+<p align="center">
+    <a href="https://example.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://placeimg.com/400/200/tech" alt="Interactive Graphic" width="400" height="200" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://example.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://placeimg.com/400/200/game" alt="Interactive Game" width="400" height="200" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://example.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://placeimg.com/400/200/gif" alt="2D GIF" width="400" height="200" />
+    </a>
+</p>
 
