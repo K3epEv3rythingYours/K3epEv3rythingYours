@@ -17,7 +17,9 @@
 - 📫 How to reach me **WaelShannak@Outlook.com**
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k3epev3rythingyours" alt="k3epev3rythingyours" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=K3epEv3rythingYours&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/waelshannak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/waelshannak/" height="30" width="40" /></a>
@@ -33,7 +35,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=K3epEv3rythingYours&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=K3epEv3rythingYours&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### My Fav Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
