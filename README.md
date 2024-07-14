@@ -1,7 +1,7 @@
-[![MasterHead](https://i.pinimg.com/originals/1c/84/ca/1c84ca24580140e41237121acebb638c.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/19/d7/14/19d71479920640e6cd75fbd9edfe8dec.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm K3epEv3rythingYours</h1>
 <h3 align="center">A passionate frontend developer from Jordan</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/1c/84/ca/1c84ca24580140e41237121acebb638c.gif">
+<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/750482725418729862/">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k3epev3rythingyours&label=Profile%20views&color=0e75b6&style=flat" alt="k3epev3rythingyours" /> </p>
