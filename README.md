@@ -27,7 +27,7 @@
     <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/waelshannak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
 </p>
 
----
+#
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -54,14 +54,14 @@
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" /></a>
 </p>
 
----
+#
 
 <br>
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K3epEv3rythingYours&theme=dark&hide_border=false&include_all_commits=true&count_private=true)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=K3epEv3rythingYours&theme=dark&hide_border=false)
 
----
+#
 
 <br>
 
@@ -73,7 +73,7 @@
 ### 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=K3epEv3rythingYours&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+#
 
 <br>
 
