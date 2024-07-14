@@ -1,6 +1,6 @@
 [![MasterHead](https://pouch.jumpshare.com/preview/KVyWcF07-Jtg0L1YJCgiC8pcIPs5Op7IoIIv9lhHEBiVrnWlDftt6t6LS0T8v7Z3n84qWBhuO_ZPehvLC4foCwtvmsBVbCIl-qnbTdXx5uQ)](https://rishavchanda.io)
 <h1 align="center">Hey I am K3Y</h1>
-<h3 align="center">**`A Digital Craftsman from Jordan`**</h3>
+**<h3 align="center">A Digital Craftsman from Jordan</h3>**
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif">
 
 ---
