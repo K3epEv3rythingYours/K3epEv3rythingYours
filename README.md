@@ -13,11 +13,11 @@
 
 <br>
 
-- 🔭 I’m currently working on **a lot of things**
-- 🌱 I’m currently learning **a lot of things**
-- 👨‍💻 All of my projects are available at [To add later.](To add later.)
-- 💬 Ask me about **anything**
-- 📫 How to reach me: WaelShannak@Outlook.com
+- 🔭 Currently working on **multiple projects**
+- 🌱 Always learning and exploring new technologies
+- 👨‍💻 Check out my projects at [To be added later](To be added later)
+- 💬 Feel free to ask me anything
+- 📫 Reach me at WaelShannak@Outlook.com
 
 <br>
 
@@ -83,4 +83,5 @@
 </p>
 
 <br><br>
+
 
