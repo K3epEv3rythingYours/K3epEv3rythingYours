@@ -33,3 +33,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k3epev3rythingyours&show_icons=true&locale=en" alt="k3epev3rythingyours" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k3epev3rythingyours&" alt="k3epev3rythingyours" /></p>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/waelshannak/) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=K3epEv3rythingYours&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=K3epEv3rythingYours&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=K3epEv3rythingYours&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=K3epEv3rythingYours&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=K3epEv3rythingYours&icon=7&color=12)](https://visitcount.itsvg.in)
