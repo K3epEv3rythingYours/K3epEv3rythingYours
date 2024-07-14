@@ -6,6 +6,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=K3epEv3rythingYours&icon=7&color=12)](https://visitcount.itsvg.in)
 
+<pr>
 - 🔭 I’m currently working on **A lot of things**
 
 - 🌱 I’m currently learning **A lot of things**
@@ -15,12 +16,11 @@
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **WaelShannak@Outlook.com**
-
+<br></pre>
 
 ## 🏆 GitHub Trophies
-<pre> 
-![](https://github-profile-trophy.vercel.app/?username=K3epEv3rythingYours&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-</pre>
+![](https://github-profile-trophy.vercel.app/?username=K3epEv3rythingYours&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/waelshannak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/waelshannak/" height="30" width="40" /></a>
