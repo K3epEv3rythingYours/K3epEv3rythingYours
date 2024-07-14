@@ -11,16 +11,12 @@
 [![Visit Count](https://visitcount.itsvg.in/api?id=K3epEv3rythingYours&icon=7&color=12)](https://visitcount.itsvg.in)
 [![GitHub Stars](https://img.shields.io/github/stars/K3epEv3rythingYours?style=social)](https://github.com/K3epEv3rythingYours)
 
-
-<br>
-
 - 🔭 Currently working on **multiple projects**
 - 🌱 Always learning and exploring new technologies
 - 👨‍💻 Check out my projects at [To be added later](To be added later)
 - 💬 Feel free to ask me anything
 - 📫 Reach me at WaelShannak@Outlook.com
 
-<br/>
 
 <br/>
 
