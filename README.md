@@ -23,8 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-   <a herf = "https://app.codesignal.com/profile/wael_s_lu6" target="blank"><img align = "center" src="https://ibb.co/LSPdg6z" alt="CodeSignel" height = "30" width = "40" \> </a>
-    <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/waelshannak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+   <a href="https://app.codesignal.com/profile/wael_s_lu6"><img src="https://i.ibb.co/Mnhk1pD/channels4-profile.jpg" alt="channels4-profile" border="0" height="30" width="40" ></a>
+    <a href="https://www.hackerrank.com/profile/WaelShannak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
 </p>
 
 #
