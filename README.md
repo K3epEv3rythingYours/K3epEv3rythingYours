@@ -1,4 +1,3 @@
-[![MasterHead](https://s10.gifyu.com/images/S5qTl.md.gif)]
 <h1 align="center">Hey, I am K3Y</h1>
 
 <p align="center">A Digital Craftsman from Jordan</p>
