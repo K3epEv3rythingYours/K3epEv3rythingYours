@@ -1,4 +1,4 @@
-[![MasterHead](https://pouch.jumpshare.com/preview/KVyWcF07-Jtg0L1YJCgiC8pcIPs5Op7IoIIv9lhHEBiVrnWlDftt6t6LS0T8v7Z3n84qWBhuO_ZPehvLC4foCwtvmsBVbCIl-qnbTdXx5uQ)](https://rishavchanda.io)
+[![MasterHead](https://ibb.co/Dgxxr6M)]
 <h1 align="center">Hey, I am K3Y</h1>
 
 <p align="center">A Digital Craftsman from Jordan</p>
