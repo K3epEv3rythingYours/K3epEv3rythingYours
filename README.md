@@ -1,4 +1,4 @@
-<img align="center" width="1200" src="https://s10.gifyu.com/images/S5qTr.gif">
+<img align="center" target="_blank" width="1200" src="https://s10.gifyu.com/images/S5qTr.gif">
 <h1 align="center">Hey, I am K3Y</h1>
 
 <p align="center">A Digital Craftsman from Jordan</p>
